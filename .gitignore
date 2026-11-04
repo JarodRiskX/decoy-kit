@@ -1,0 +1,5 @@
+# Never commit your own decoys or token text
+*.txt
+*.sql
+*.pdf
+.DS_Store
